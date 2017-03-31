@@ -1,0 +1,11 @@
+{
+  "name": "fortunes",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "~3.0.0"
+  },
+  "description": "Simple fortunes website",
+  "main": "app.js",
+  "author": "Not Mark"
+}
